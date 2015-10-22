@@ -1,0 +1,22 @@
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+app-debug-unaligned.apk
+app-debug.apk
+.lock
+.dex
+.bin
+/build
+/captures
+
+# ignore idea files
+.idea/
+
+.gradle/
+
+app/build/
+SongsApp.iml
+app/app.iml
+
+app/app.iml
