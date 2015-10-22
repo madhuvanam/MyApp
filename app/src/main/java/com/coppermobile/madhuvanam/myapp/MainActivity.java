@@ -49,6 +49,8 @@ public class MainActivity extends Activity {
             }
         });
 
+
+        
 //        client = new AsyncHttpClient();
 //        client.get(MainActivity.this, url, new AsyncHttpResponseHandler() {
 //            @Override
