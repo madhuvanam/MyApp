@@ -1,22 +1,51 @@
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-app-debug-unaligned.apk
-app-debug.apk
-.lock
-.dex
-.bin
-/build
-/captures
+# built application files
+*.apk
+*.ap_
 
-# ignore idea files
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+target/
+project.properties
+
+# Android Studio
 .idea/
-
-.gradle/
-
-app/build/
-SongsApp.iml
-app/app.iml
-
-app/app.iml
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+**/.idea/
+**/*.iml
+build/
+target/
+import-summary.txt
+# Crashlytics
+.crashlytics_data/
+/*/com_crashlytics_export_strings.xml
+**/crashlytics.properties
+#OSX STUFF
+.DS_Store
+/*/.DS_Store
+**/crashlytics-build.properties
+spoon-output/
+#SPOON_TEST_RESULTS
+spoon-output/*
