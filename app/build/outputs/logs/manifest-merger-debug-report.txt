@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:2:1-38:12
+	xmlns:android
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+permission#com.coppermobile.madhuvanam.myapp.permission.MAPS_RECEIVE
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:5:5-6:47
+	android:protectionLevel
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:6:9-44
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:5:17-89
+uses-permission#android.permission.INTERNET
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#com.coppermobile.madhuvanam.myapp.permission.MAPS_RECEIVE
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:12:5-96
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:12:22-94
+application
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:13:5-36:19
+	android:label
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:15:9-38
+	android:theme
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.coppermobile.madhuvanam.myapp.MainActivity
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.coppermobile.madhuvanam.myapp.VolleyExample
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:28:19-48
+activity#com.coppermobile.madhuvanam.myapp.PicassoExample
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:29:19-49
+activity#com.coppermobile.madhuvanam.myapp.Webview
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:30:19-42
+activity#com.coppermobile.madhuvanam.myapp.PreviewPlayer
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:31:19-48
+activity#com.coppermobile.madhuvanam.myapp.Location
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:32:9-45
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:32:19-43
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:33:9-35:70
+	android:name
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:34:13-58
+	android:value
+		ADDED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml:35:13-68
+uses-sdk
+INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:3.2.65] /Users/madhuvanam/MyApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/AndroidManifest.xml:7:5-42
+	android:targetSdkVersion
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhuvanam/MyApp/app/src/main/AndroidManifest.xml
